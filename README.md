@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @star
+- 👋 Hi, I’m @supernova
 - 👀 I’m interested in astronomy, music
 - 🌱 I’m currently learning ?
 - 💞️ I’m looking to collaborate on ?
