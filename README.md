@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @supernova
-- 👀 I’m interested in astronomy, music
+- 👋 Hi, I’m @okocim
+- 👀 I’m interested in music, games
 - 🌱 I’m currently learning ?
 - 💞️ I’m looking to collaborate on ?
 - 📫 How to reach me dc: perlaexport666
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: i have hamster!
+  
 
 <!---
 kotomiler/kotomiler is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
